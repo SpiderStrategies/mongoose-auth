@@ -16,7 +16,7 @@
     "bcrypt": ">=0.5.0",
     "mongoose": ">=2.4.8",
     "everyauth": "0.3.0",
-    "mongoose-types": ">=1.0.3"
+    "mongoose-types": "git://github.com/SpiderStrategies/mongoose-types"
   },
   "devDependencies": {
     "express": ">=2.3.2",
