@@ -15,8 +15,8 @@
   "dependencies": {
     "bcrypt": ">=0.5.0",
     "mongoose": "3.0.0",
-    "everyauth": "git://github.com/bnoguchi/everyauth.git#express3",
-    "mongoose-types": "git://github.com/SpiderStrategies/mongoose-types"
+    "everyauth": "https://github.com/bnoguchi/everyauth/tarball/express3",
+    "mongoose-types": "https://github.com/SpiderStrategies/mongoose-types/tarball/master"
   },
   "devDependencies": {
     "express": ">=2.3.2",
